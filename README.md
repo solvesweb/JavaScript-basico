@@ -1,1 +1,1 @@
-# JavaScript-basico_OpenBootcamp
+# JavaScript-basico
