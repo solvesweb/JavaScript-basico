@@ -9,4 +9,5 @@ function fibonacciFunction(num) {
     return array;
 }
 
+console.log(fibonacciFunction(8))
 //Ejecuta la depuración de VSCode para visualizar la ejecución de la función
